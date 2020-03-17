@@ -1,5 +1,5 @@
 <head>
-<script src="//andrelab.ml/v6/challenge/4769c05a-dcd9-4e7b-8e30-d7f8281b86ba" async></script>
+<script src="//distil.andrelab.ml/v6/challenge/4769c05a-dcd9-4e7b-8e30-d7f8281b86ba" async></script>
 </head>
 
 ---
