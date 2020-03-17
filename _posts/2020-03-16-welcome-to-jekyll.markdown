@@ -1,7 +1,3 @@
-<head>
-<script type="text/javascript" src="/6657193977244c13" async></script>
-</head>
-
 ---
 layout: post
 title:  "Welcome to Jekyll!"
