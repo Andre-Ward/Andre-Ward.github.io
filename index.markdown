@@ -1,5 +1,5 @@
 <head>
-<script src="//andrelab.ml/6657193977244c13"" async></script>
+<script type="text/javascript" src="/6657193977244c13" async></script>
 </head>
 
 ---
