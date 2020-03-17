@@ -1,3 +1,6 @@
+<head>
+</head>
+
 ---
 layout: post
 title:  "Welcome to Jekyll!"
